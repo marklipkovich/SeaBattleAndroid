@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SeaBattle</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="number_ships">SHIPS</string>
+    <string name="ship_size">SHIP SIZE</string>
+    <string name="back">Back</string>
+    <string name="game_over">GAME OVER!</string>
+    <string name="select_file">Select File</string>
+    <string name="loaded">loaded</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="max_ship_size">Max Ship Size: </string>
+    <string name="select_size">Select Max Ship Size</string>
+    <string name="select_number">Select Number of Ships</string>
+
+
+</resources>
